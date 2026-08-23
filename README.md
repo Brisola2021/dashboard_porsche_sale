@@ -1,2 +1,2 @@
 # dashboard_porsche_sale
-Dashboard de vendas de modelos da porsche
+Arquivos do projeto de Dashboard do Porsche_Desafio_DIO
